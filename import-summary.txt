@@ -1,0 +1,49 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Dragon Ball GT #1,2.ts.mka
+* QQPCDownload1600.exe
+* R.txt
+* classes.jar
+* constraint-layout-1.1.1.aar
+* diannaoguanjia@2345_35235.exe
+* glide-4.3.1.jar
+* glide-4.7.1.jar
+* glide-4.7.1.pom
+* gson-2.8.0.jar
+* jstarkan.exe
+* litepal-1.6.1.jar
+* okhttp-3.10.0.jar
+* qqpcmgr_v12.13.19475.203_1324_0.exe
+* sogou_pinyin_90b.exe
+* vs_community__895456036.1526899703.exe
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => libs\src\main\AndroidManifest.xml
+* assets\ => libs\src\main\assets
+* res\ => libs\src\main\res\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
